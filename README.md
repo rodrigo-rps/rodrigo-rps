@@ -1,10 +1,15 @@
 ## Olá 👋
 
-⚡ Página de perfil em construção!
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rodrigo-rps)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-rps&show_icons=true)
+
+
+⚡ Página de perfil em construção!
+
+
+
+
 
 
 
