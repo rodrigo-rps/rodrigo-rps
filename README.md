@@ -1,6 +1,6 @@
 ## Olá Pessoal! 👋
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rodrigo-rps&label=VISUALIZAÇÕES+DO+PERFIL)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rodrigo-rps&label=VISUALIZAÇÕES+DO+PERFIL&style=for-the-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-rps&show_icons=true)
 
