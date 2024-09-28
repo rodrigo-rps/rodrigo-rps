@@ -4,6 +4,8 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rodrigo-rps)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
 
 <!--
