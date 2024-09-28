@@ -1,7 +1,8 @@
 ## Olá 👋
 
+<p align="center">
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rodrigo-rps)
-
+</p>
 <!--
 **rodrigo-rps/rodrigo-rps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
