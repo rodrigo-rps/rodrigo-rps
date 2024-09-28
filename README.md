@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-rps&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
-⚡ Página de perfil em construção!
+⚡ Em construção, ainda sem uso por aqui!
 
 
 
